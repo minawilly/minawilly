@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minawilly
 - 👀 I’m interested in anything tech
 - 🌱 I’m a full stack web developer
-- 💞️ I’m looking to collaborate on building website projects
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me: aminahwilliamsade@gmail.com
 
 <!---
